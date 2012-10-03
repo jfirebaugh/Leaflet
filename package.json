@@ -6,6 +6,7 @@
   "description": "Modern javascript map component written by CloudMade",
   "homepage": "http://leaflet.cloudmade.com/",
   "version": "0.1.0",
+  "main": "./dist/leaflet-src.js",
   "scripts": {
     "build": "./node_modules/jake/bin/cli.js build",
     "test": "echo Use the browser"
